@@ -20,7 +20,7 @@ Luckily I scaled down my prior demands. I received a flexiable mirror tile plate
 
 ##Prototyping & Experimentation
 
-![motor poster](http://topada.hercules.uberspace.de/d_fhp/io/doc/03_motor_poster/io3_4.png)
+![motor poster](http://topada.hercules.uberspace.de/d_fhp/io/doc/03_motor_poster/io3_4.png&refresh=0)
 
 
 ##Craftsmanship sans craftsman
