@@ -21,17 +21,22 @@ Luckily I scaled down my prior demands. I received a flexiable mirror tile plate
 ##Prototyping & Experimentation
 ![motor poster](http://topada.hercules.uberspace.de/d_fhp/io/doc/03_motor_poster/io3_4.png)
 
-##Craftsmanship sans craftsman
+It's been some craftsmanship sans craftsman. It took me quite a while to figure out, how to build the wooden frame that could fit an arduino board with its electronics as well as the mechanics of this work. The mechanics I was still experimenting with in the meantime.
+
 ![motor poster](http://topada.hercules.uberspace.de/d_fhp/io/doc/03_motor_poster/io3_2.png)
+
+##What it does
+The tile mirror plate sitting inside the wooden frame is fixed to the left and right side. If someone steps infront of the mirror, a tiny infrared distance sensor  measures the distance between the viewer and the object. Then the distance is proccessed by the arduino board, which controlls a stepper motor. The motor pulls or releases a cord attached to the center of the mirrors back. The closer the viewer gets to the object the more is pulled.
 
 ![motor poster](http://topada.hercules.uberspace.de/d_fhp/io/doc/03_motor_poster/io3_3.png)
 
 #Physical Computing with Arudino
+Working with arduino and various sensors and motors was good fun. For this project in particular I made use of an **arduino uno board, a breadboard, few jumper cables, a stepper motor and a small infrared sensor.** If want to learn more, I am happy to answer any questions in detail.
+
 ![motor poster](http://topada.hercules.uberspace.de/d_fhp/io/doc/03_motor_poster/io3_1.png)
 
-
-
 ##Schau
+The motor poster was shown during the [WERKSCHAU 2015](http://fhp-werkschau.de/) exhibition of the University of Applied Science, Potsdam. 
 
 ####[See the video of the final installation on vimeo](https://vimeo.com/130937774)
 ----
