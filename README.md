@@ -38,7 +38,7 @@ Working with arduino and various sensors and motors was good fun. For this proje
 ##Schau
 The motor poster was shown during the [WERKSCHAU 2015](http://fhp-werkschau.de/) exhibition of the University of Applied Science, Potsdam. 
 
-####[See the video of the final installation on vimeo](https://vimeo.com/130937774)
+####[See the video of the final installation on vimeo](https://vimeo.com/140973301)
 ----
 
 ![motor poster](http://topada.hercules.uberspace.de/d_fhp/io/doc/03_motor_poster/io3_5.png)
